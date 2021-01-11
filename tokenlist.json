@@ -103,6 +103,51 @@
         "decimals": 18,
         "chainId": 42,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
-    }
+    },
+        {
+      "address": "0xcbc1065255cbc3ab41a6868c22d1f1c573ab89fd",
+      "chainId": 1,
+      "name": "Cream ETH 2",
+      "symbol": "CRETH2",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/CreamFinance_32.png"
+    },
+    {
+      "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+      "chainId": 1,
+      "name": "1inch Exchange",
+      "symbol": "1INCH",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/1inch_32.png"
+    },
+    {
+      "address": "0x368b3a58b5f49392e5c9e4c998cb0bb966752e51",
+      "chainId": 1,
+      "name": "Mithril Cash",
+      "symbol": "MIC",
+      "decimals": 18,
+      "logoURI": "https://mith.cash/static/media/mithCash.18c4ff38.svg"
+    },
+    {
+      "address": "0x4b4D2e899658FB59b1D518b68fe836B100ee8958",
+      "chainId": 1,
+      "name": "Mithril Shares",
+      "symbol": "MIS",
+      "decimals": 18,
+      "logoURI": "https://mith.cash/static/media/mithCash.18c4ff38.svg"
+    },
+    {
+      "address": "0x4688a8b1f292fdab17e9a90c8bc379dc1dbd8713",
+      "chainId": 1,
+      "name": "Cover Protocol",
+      "symbol": "COVER",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13563/small/1_eWBbDaqpxXqt7WYPSP4qSw.jpeg?1609822578"
+    },
+     "version": {
+    "major": 11,
+    "minor": 0,
+    "patch": 0
+  }
    ]
 }
